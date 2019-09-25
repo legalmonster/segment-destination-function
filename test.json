@@ -1,0 +1,11 @@
+{
+  "type": "track",
+  "event": "Email Unsubscribed",
+  "userId": "1",
+  "timestamp": "2019-04-08T01:19:38.931Z",
+  "email": "st@legalmonster.com",
+  "properties": {
+    "plan": "Pro Annual",
+    "accountType" : "Facebook"
+  }
+}
